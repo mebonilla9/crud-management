@@ -1,0 +1,7 @@
+[submodule "vue-crud-management"]
+  path = vue-crud-management
+  url = ../vue-crud-management.git
+
+[submodule "node-crud-management"]
+  path = node-crud-management
+  url = ../node-crud-management.git
